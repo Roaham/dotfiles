@@ -31,9 +31,14 @@
         },
         {
             "type": "packages",
-            "format": "{} (pacman)",
+            "format": "{} (pacman, aur)",
             "key": "pkgs  ",
             "keyColor": "33",  
+        },
+        {
+            "type": "wm",
+            "key": "wm    ",
+            "keyColor": "33",
         },
         {
             "type": "cpu",
